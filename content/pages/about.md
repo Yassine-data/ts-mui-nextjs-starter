@@ -22,22 +22,6 @@ sections:
             color: primary
       - type: Card
         title: Item Title
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: Image
-          altText: Item image
-        actions:
-          - type: Button
-            label: Learn More
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
-        title: Item Title
         text: >
           **Data Analyst passionné par les données et leur impact, je possède
           une formation en analyse de données, statistique et gestion de
