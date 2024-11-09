@@ -7,19 +7,6 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Card
-        title: First Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
         title: Second Item Title
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
