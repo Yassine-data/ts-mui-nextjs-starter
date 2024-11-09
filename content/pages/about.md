@@ -40,7 +40,7 @@ sections:
           altText: Item image
         actions:
           - type: Button
-            label: Learn More
+            label: ''
             url: /
             size: medium
             variant: text
