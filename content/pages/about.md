@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: CardsSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: Second Item Title
