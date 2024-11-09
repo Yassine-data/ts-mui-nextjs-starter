@@ -21,7 +21,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Item Title
+        title: ''
         text: >
           **Data Analyst passionné par les données et leur impact, je possède
           une formation en analyse de données, statistique et gestion de
