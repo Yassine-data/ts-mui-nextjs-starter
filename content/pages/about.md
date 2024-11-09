@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Second Item Title
+        title: ''
         text: ''
         image:
           type: Image
