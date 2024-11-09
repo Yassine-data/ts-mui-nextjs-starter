@@ -37,19 +37,39 @@ sections:
             color: primary
       - type: Card
         title: ''
-        text: >
-          **Data Analyst passionné par les données et leur impact, je possède
-          une formation en analyse de données, statistique et gestion de
-          l’information.**
+        text: >+
+          ### **Diplômes**
 
 
-          Curieux et rigoureux, j'ai acquis de l'expérience dans différents
-          secteurs, notamment en banque, ESN. J’ai eu l’opportunité de
-          participer à des projets variés, me permettant de développer des
-          compétences solides dans la transformation de données complexes en
-          insights clairs et exploitables pour la prise de décision. Mon
-          objectif est de révéler le potentiel des données pour générer de la
-          valeur et des solutions concrètes.
+          *   *M2I Data Analyst Poec, M2I Formation, 2024*
+
+
+          **
+
+
+          *   *Master 2 en Digital Marketing et Data Analytics, Paris École de
+          Management (PEM), 2023
+
+              *
+
+          <!---->
+
+
+          *   *Master 1 en Management des Organisations et des Technologies de
+          l’Information, IAE Pau, 2022*
+
+
+          **
+
+
+          *   *Licence 3 en Marketing et Statistique, IAE Lille, 2021*
+
+
+
+
+
+
+
         image:
           type: Image
           altText: Item image
