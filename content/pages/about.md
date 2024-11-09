@@ -31,7 +31,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/image2.png
           altText: Second item image
         actions:
           - type: Button
