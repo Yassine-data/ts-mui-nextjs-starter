@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: ''
+        title: sdsfs
         text: ''
         image:
           type: Image
