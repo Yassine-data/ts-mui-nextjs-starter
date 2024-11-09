@@ -44,10 +44,10 @@ sections:
           *   *M2I Data Analyst Poec, M2I Formation, 2024*
 
 
-          **
+          \*\*
 
 
-          *   *Master 2 en Digital Marketing et Data Analytics, Paris École de
+          *   \*Master 2 en Digital Marketing et Data Analytics, Paris École de
           Management (PEM), 2023
 
               *
@@ -59,16 +59,10 @@ sections:
           l’Information, IAE Pau, 2022*
 
 
-          **
+          \*\*
 
 
           *   *Licence 3 en Marketing et Statistique, IAE Lille, 2021*
-
-
-
-
-
-
 
         image:
           type: Image
