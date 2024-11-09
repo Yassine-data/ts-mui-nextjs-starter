@@ -38,7 +38,7 @@ sections:
       - type: Card
         title: ''
         text: >+
-          ### **Diplômes**
+          ### **Diplômes :** 
 
 
           *   *M2I Data Analyst Poec, M2I Formation, 2024*
