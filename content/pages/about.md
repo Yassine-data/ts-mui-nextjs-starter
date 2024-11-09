@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: "Yassine AL ANSARE\_ \_ \_ \_ \_                 Data Analyst junior"
+        title: "Yassine AL ANSARE\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Data Analyst junior"
         text: ''
         image:
           type: Image
