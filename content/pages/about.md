@@ -38,9 +38,7 @@ sections:
       - type: Card
         title: ''
         text: >+
-          ```
-
-          ```
+          <https://cdn-icons-png.flaticon.com/512/43/43803.png>
 
 
           *   *M2I Data Analyst Poec, M2I Formation, 2024*
