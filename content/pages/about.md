@@ -12,9 +12,7 @@ sections:
         image:
           type: Image
           url: /images/image2.png
-          altText: >-
-            Mathieu BoullyData scientist / analystSpécialisé en développement R
-            et application Shiny
+          altText: ''
         actions:
           - type: Button
             label: ''
