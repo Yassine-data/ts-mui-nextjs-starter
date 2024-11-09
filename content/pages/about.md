@@ -8,7 +8,8 @@ sections:
     items:
       - type: Card
         title: "Yassine AL ANSARE\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Data Analyst junior"
-        text: ''
+        text: |
+          dsfsqfqf
         image:
           type: Image
           url: /images/image2.png
