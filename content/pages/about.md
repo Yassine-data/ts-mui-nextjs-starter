@@ -38,13 +38,7 @@ sections:
         image:
           type: Image
           altText: Item image
-        actions:
-          - type: Button
-            label: ''
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
   - type: HeroSection
     title: Example for H2 headline
     subtitle: This is the subtitle
