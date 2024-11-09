@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: 'Yassine AL ANSARE  Data/Business Analyst '
+        title: 'Yassine AL ANSARE    Data/Business Analyst            '
         text: ''
         image:
           type: Image
