@@ -22,22 +22,19 @@ sections:
             color: primary
       - type: Card
         title: Item Title
-        text: >+
+        text: >
           **Data Analyst passionné par les données et leur impact, je possède
           une formation en analyse de données, statistique et gestion de
           l’information.**
 
 
           Curieux et rigoureux, j'ai acquis de l'expérience dans différents
-          secteurs, notamment en banque, ESN et recherche. J’ai eu l’opportunité
-          de participer à des projets variés, me permettant de développer des
+          secteurs, notamment en banque, ESN. J’ai eu l’opportunité de
+          participer à des projets variés, me permettant de développer des
           compétences solides dans la transformation de données complexes en
           insights clairs et exploitables pour la prise de décision. Mon
           objectif est de révéler le potentiel des données pour générer de la
           valeur et des solutions concrètes.
-
-
-
         image:
           type: Image
           altText: Item image
