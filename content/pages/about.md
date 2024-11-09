@@ -44,7 +44,7 @@ sections:
           *   *M2I Data Analyst Poec, M2I Formation, 2024*
 
 
-          \*\*
+          <!---->
 
 
           *   Master 2 en Digital Marketing et Data Analytics, Paris École de
