@@ -22,8 +22,6 @@ sections:
           objectif est de révéler le potentiel des données pour générer de la
           valeur et des solutions concrètes.
 
-
-
         image:
           type: Image
           url: /images/image2.png
